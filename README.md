@@ -7,3 +7,4 @@ for GCI
 - Then go to `localhost:8282`
 ## Working Demo
 [Watch here](https://streamable.com/c3zw1)
+[Demo with fake data](https://streamable.com/798fh)
