@@ -11,3 +11,5 @@ for GCI
 [Watch here](https://streamable.com/c3zw1)
 
 [Demo with fake data](https://streamable.com/798fh)
+
+Google Code-in and the Google Code-in logo are trademarks of Google Inc.
